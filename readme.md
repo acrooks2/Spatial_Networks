@@ -16,4 +16,4 @@ In this paper, we propose a class of models for generating spatial versions of t
 
 
 ## Referenece 
- **Alizadeh, M., Cioffi-Revilla, C. and Crooks, A.T. (2017)**, Generating and Analyzing Spatial Social Networks. *Computational and Mathematical Organization Theory*, 23(3): 362-390. [(pdf)](https://www.dropbox.com/s/ywby9m32ny8erp5/spatialsocialnetworks.pdf?dl=0)  
+ **Alizadeh, M., Cioffi-Revilla, C. and Crooks, A.T. (2017)**, Generating and Analyzing Spatial Social Networks. *Computational and Mathematical Organization Theory*, 23(3): 362-390. [(pdf)](spatialsocialnetworks.pdf)  
